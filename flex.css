@@ -57,6 +57,18 @@
     flex-grow: 1;
 }
 
+/* RODAPÉ */
+
+.rodape {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.rodape__logo {
+    align-self: end;
+}
+
 
 
 
